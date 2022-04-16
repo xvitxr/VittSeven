@@ -23,7 +23,7 @@ BUT atleast i'm not the worse.
 
 My greatest project it's the 'vitt7console' (awesome name).
 I'm putting all i can do in it. Expect only weekly updates.
-Still on aplha, but with enough time and effort i sure that i can do something good!
+Still in dev, but with enough time and effort i sure that i can do something good!
 
 ## Contact:
 
